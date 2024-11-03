@@ -38,7 +38,7 @@ const Login = () => {
           <input type="text" placeholder="Username" name="username" />
           <input type="text" placeholder="Email" name="email" />
           <input type="password" placeholder="Password" name="password" />
-          <button>Sign In</button>
+          <button>Sign Up</button>
         </form>
       </div>
     </div>
