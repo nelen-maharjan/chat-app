@@ -21,7 +21,7 @@
     padding: 16px;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 12px;
 
     .option {
       .title {
@@ -91,6 +91,11 @@
 
       &:hover{
         background-color: rgba(220, 20, 60, 0.796);
+      }
+
+      &.logout{
+        padding: 8px;
+        background-color: #1a73e8;
       }
     }
   }
