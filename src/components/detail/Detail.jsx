@@ -34,6 +34,20 @@ const Detail = () => {
               </div>
             <img className='icon' src="./download.png" alt="download-img" />
             </div>
+            <div className="photoItem">
+              <div className="photoDetail">
+              <img src="https://pbs.twimg.com/media/Fn5qjz9WQAAXUgE.jpg" alt="img" />
+              <span>photo_2024.png</span>
+              </div>
+            <img className='icon' src="./download.png" alt="download-img" />
+            </div>
+            <div className="photoItem">
+              <div className="photoDetail">
+              <img src="https://pbs.twimg.com/media/Fn5qjz9WQAAXUgE.jpg" alt="img" />
+              <span>photo_2024.png</span>
+              </div>
+            <img className='icon' src="./download.png" alt="download-img" />
+            </div>
           </div>
         </div>
         <div className="option">
